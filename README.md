@@ -112,6 +112,28 @@ When returning a book:
 
 ---
 
+## 📸 Application Screenshots
+
+### 🔐 Login Page
+<img width="1091" height="617" alt="image" src="https://github.com/user-attachments/assets/a6857c43-07a4-404b-add7-fd1c4bee9a03" />
+
+
+### 👨‍💼 Admin Dashboard
+<img width="927" height="629" alt="image" src="https://github.com/user-attachments/assets/96f9010d-84cd-4916-bb9c-359c6abb0e36" />
+
+
+### 👩‍🎓 Student Portal
+<img width="846" height="577" alt="image" src="https://github.com/user-attachments/assets/7f03eeb3-d55d-4e84-ae74-e32627d01066" />
+
+### 📚 Add Book
+<img width="927" height="634" alt="image" src="https://github.com/user-attachments/assets/13ee5ca5-627d-4a9d-9dda-6ab434c5ea6e" />
+
+### 📚 Issue Book
+<img width="929" height="634" alt="image" src="https://github.com/user-attachments/assets/55c3f861-6609-4c95-a815-39cd004a5f42" />
+
+
+---
+
 ## 📁 Project Structure
 
 ```
